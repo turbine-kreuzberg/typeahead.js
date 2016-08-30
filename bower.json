@@ -1,5 +1,5 @@
 {
-  "name": "votum-typeahead",
+  "name": "votum-typeahead.js",
   "version": "0.11.2",
   "main": "dist/typeahead.bundle.js",
   "dependencies": {
